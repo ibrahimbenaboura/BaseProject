@@ -1,6 +1,6 @@
 TheFile = open("==> THE FILE PATH HERE <==", "r")
 TheTries = 3
-ThePassword = "==> YOUR PASSWORD HERE"
+ThePassword = "==> YOUR PASSWORD HERE <=="
 FileContent = TheFile.read()
 
 
